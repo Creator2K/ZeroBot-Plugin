@@ -1,5 +1,5 @@
-// Package dailynews 今日早报
-package dailynews
+// Package diablo 动感地带
+package diablo
 
 import (
 	"github.com/FloatTech/floatbox/binary"
